@@ -1,76 +1,67 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OscarP29/OscarP29/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OscarP29/OscarP29/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OscarP29/OscarP29/output/pacman-contribution-graph.svg">
-</picture>
+<!-- 💫 PROFILE README BY OSCAR -->
+<h1 align="center">✨ Hey there, I'm Oscar 👋</h1>
 
-###
+<p align="center">
+  <em>Systems Engineering student at the <strong>University of Córdoba</strong> | Passionate about technology, coding, and continuous learning.</em>
+</p>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+---
 
-###
+### 🌱 About Me
 
-<p align="left">👋 Hi! I’m Oscar, a Systems Engineering student at the University of Córdoba.<br>I’m passionate about technology and software development.<br>Throughout my learning journey, I’ve gained experience with Python, Java, React, and Spring, and have worked on various web development projects.<br>💡 I enjoy learning new things, experimenting with modern tools, and building solutions that make a difference.</p>
+👋 Hi! I’m Oscar, a Systems Engineering student who loves building things with code.  
+💻 I’m passionate about **software development**, experimenting with modern frameworks, and learning something new every day.  
+🧠 Creating bugs since my very first **“Hello World!”** 😅  
 
-###
+📚 Currently learning **Spring Boot**, **React**, and **database design**.  
+🎯 Goals: To strengthen my **full-stack development** skills and contribute to **open-source** projects.  
+☕ Fun fact: I debug better with coffee as my main dependency.  
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🧰 Tech Stack
 
-<p align="left">📚 I'm currently learning <strong>Spring Boot, React, and database design</strong> <br>🎯 Goals: Improve my full-stack development skills and contribute to open-source projects.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,spring,nodejs,html,css,git,github,mysql,mongodb" />
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="www.linkedin.com/in/oscar-perez-aba1a1397" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oscar-perez-aba1a1397" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/operez.sys/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="oaperezsanchez2925@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:oaperezsanchez2925@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=OscarP29&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" height="170" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarP29&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="Top Languages"/>
+
 </div>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### 💡 Quote to Code By
 
-###
+> *“First, solve the problem. Then, write the code.”*  
+> — John Johnson
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+---
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarP29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarP29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OscarP29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
