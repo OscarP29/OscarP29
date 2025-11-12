@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning <strong>Spring Boot, React, and database design</strong>strong> <br>🎯 Goals: Improve my full-stack development skills and contribute to open-source projects.</p>
+<p align="left">📚 I'm currently learning <strong>Spring Boot, React, and database design</strong> <br>🎯 Goals: Improve my full-stack development skills and contribute to open-source projects.</p>
 
 ###
 
