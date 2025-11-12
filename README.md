@@ -9,16 +9,21 @@
 
 ### 🌱 About Me
 
-👋 Hi! I’m Oscar, a Systems Engineering student who loves building things with code.  
-💻 I’m passionate about **software development**, experimenting with modern frameworks, and learning something new every day.    
+I'm a Systems Engineering student who loves building things with code.  
+I'm passionate about **software development**, experimenting with modern frameworks, and learning something new every day.  
 
-📚 Currently learning **Spring Boot**, **React**, and **database design**.  
-🎯 Goals: To strengthen my **full-stack development** skills and contribute to **open-source** projects.  
-☕ Fun fact: I debug better with coffee as my main dependency.  
+### 📚 Currently learning  
+- **Spring Boot**  
+- **React**  
+- **Database design**  
+
+### 🎯 Goals  
+- Strengthen my **full-stack development** skills  
+- Contribute to **open-source** projects   
 
 ---
 
-### 🧰 Tech Stack
+### 🖥️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,spring,nodejs,html,css,git,github,mysql,mongodb" />
