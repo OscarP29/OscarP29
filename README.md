@@ -10,8 +10,7 @@
 ### 🌱 About Me
 
 👋 Hi! I’m Oscar, a Systems Engineering student who loves building things with code.  
-💻 I’m passionate about **software development**, experimenting with modern frameworks, and learning something new every day.  
-🧠 Creating bugs since my very first **“Hello World!”** 😅  
+💻 I’m passionate about **software development**, experimenting with modern frameworks, and learning something new every day.    
 
 📚 Currently learning **Spring Boot**, **React**, and **database design**.  
 🎯 Goals: To strengthen my **full-stack development** skills and contribute to **open-source** projects.  
@@ -55,7 +54,6 @@
 
 ---
 
-### 💡 Quote to Code By
 
 > *“First, solve the problem. Then, write the code.”*  
 > — John Johnson
