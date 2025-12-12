@@ -45,17 +45,6 @@ I'm passionate about **software development**, experimenting with modern framewo
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OscarP29&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" height="170" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarP29&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="Top Languages"/>
-
-</div>
 
 ---
 
